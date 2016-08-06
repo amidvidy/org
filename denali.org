@@ -7,7 +7,25 @@
    Advice:
    1. Keep hiking boots on to protect your feet.
    2. Use a trekking pole (or a stick) to gauge water depth.
-**
+*** Gravel River Bars
+    Flat, rocky surfaces that characterize most major rivers in the park.
+** Glacier Crossings
+   These present numeous hazards. Can't cross the upper ice/snow portions of a
+   glacier without appropriate equipment. Crossing 'lower glacial moraine'
+   possible but requires caution.
+** Boreal Forest (Taiga)
+   Appears at lower elevations (less than 3k feet above sea level). Not great
+   terrain for camping due to lack of visibility.
+** Bushy Tundra
+   Some backcountry units require bushwacking through dense brush that may
+   exceed 6 feed in height. Bad for camping due to extremely limited visibility.
+   Surprise encounters with wildlife possible.
+** Alpine Tundra
+   Exists at higher elevations (above 3k feet). Affords good visibility. Camping
+   can be difficult due to angles/slopes of hills.
+** Glacier Moraines
+   Denoted on maps by stippled areas. Consists of ice covered with dirt and
+   debris. Makes for very rough travel with many hazards.
 * Potential Units
   Some quick summaries of some interesting-sounding units that don't require
   expert backpacking skills.
@@ -39,6 +57,7 @@
 9. [ ] Compass and map
 10. [ ] Toilet paper, trowel, bag
 11. [ ] Tent with rain fly and waterproof floor
+    - REI quarter dome
 12. [ ] Sleeping bag/pad
 13. [ ] Insect repellent/head net
 14. [ ] Emergency gear - first aid kit, knife, signaling device
