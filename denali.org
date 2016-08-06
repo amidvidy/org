@@ -26,7 +26,26 @@
     Surrounded by tundra benches and high peaks. Very popular unit so expect
     to have difficult getting a permit. Don't expect as much solitude.
 *** Unit 13 - Mount Eielson
-
-
 * Gear
+** TODO awterproof hiking boots
+** TODO 2P wool or synthetic socks
+** TODO Trekking pole
+** TODO Rain jacket/rain pants
+** TODO polypropylene, nylon, fleece or wool clothing
+** TODO stove, fuel, cookware, water bottles
+** TODO water filter
+** TODO Dense, high calorie-food
+** TODO Compass and map
+** TODO Toilet paper, trowel, bag
+** TODO Tent with rain fly and waterproof floor
+** TODO Sleeping bag/pad
+** TODO Insect repellent/head net
+** TODO Insect repellent/head net
+** TODO Emergency gear - first aid kit, knife, signaling device
+** TODO Bear spray
+** TODO Backpack rain cover
+** TODO Change of shoes
+** TODO Camera with waterproof case
+** TODO Toiletries
+** TODO Sunscreen, sunglasses, hat
 * Food
