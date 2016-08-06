@@ -26,26 +26,26 @@
     Surrounded by tundra benches and high peaks. Very popular unit so expect
     to have difficult getting a permit. Don't expect as much solitude.
 *** Unit 13 - Mount Eielson
-* Gear
-** TODO awterproof hiking boots
-** TODO 2P wool or synthetic socks
-** TODO Trekking pole
-** TODO Rain jacket/rain pants
-** TODO polypropylene, nylon, fleece or wool clothing
-** TODO stove, fuel, cookware, water bottles
-** TODO water filter
-** TODO Dense, high calorie-food
-** TODO Compass and map
-** TODO Toilet paper, trowel, bag
-** TODO Tent with rain fly and waterproof floor
-** TODO Sleeping bag/pad
-** TODO Insect repellent/head net
-** TODO Insect repellent/head net
-** TODO Emergency gear - first aid kit, knife, signaling device
-** TODO Bear spray
-** TODO Backpack rain cover
-** TODO Change of shoes
-** TODO Camera with waterproof case
-** TODO Toiletries
-** TODO Sunscreen, sunglasses, hat
+* TODO Gear
+1. [ ] waterproof hiking boots
+2. [ ] 2P wool or synthetic socks
+3. [ ] Trekking pole
+4. [ ] Rain jacket/rain pants
+5. [ ] polypropylene, nylon, fleece or wool clothing
+6. [ ] stove, fuel, cookware, water bottles
+7. [ ] water filter
+8. [ ] Dense, high calorie-food
+9. [ ] Compass and map
+10. [ ] Toilet paper, trowel, bag
+11. [ ] Tent with rain fly and waterproof floor
+12. [ ] Sleeping bag/pad
+13. [ ] Insect repellent/head net
+14. [ ] Insect repellent/head net
+15. [ ] Emergency gear - first aid kit, knife, signaling device
+16. [ ] Bear spray
+17. [ ] Backpack rain cover
+18. [ ] Change of shoes
+19. [ ] Camera with waterproof case
+20. [ ] Toiletries
+21. [ ] Sunscreen, sunglasses, hat
 * Food
