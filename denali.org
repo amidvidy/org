@@ -1,12 +1,13 @@
 * Trip Types
   I think I'm pretty set on doing a Unit loop. Would like to see some glaciers!
-* Terrian Types
+* Terrain Types
 ** River Crossings
    There are no bridges accross rivers. Water temperature is cold (36F) so a
    cold immersion could potentially cause hypothermia.
    Advice:
    1. Keep hiking boots on to protect your feet.
    2. Use a trekking pole (or a stick) to gauge water depth.
+**
 * Potential Units
   Some quick summaries of some interesting-sounding units that don't require
   expert backpacking skills.
@@ -40,12 +41,11 @@
 11. [ ] Tent with rain fly and waterproof floor
 12. [ ] Sleeping bag/pad
 13. [ ] Insect repellent/head net
-14. [ ] Insect repellent/head net
-15. [ ] Emergency gear - first aid kit, knife, signaling device
-16. [ ] Bear spray
-17. [ ] Backpack rain cover
-18. [ ] Change of shoes
-19. [ ] Camera with waterproof case
-20. [ ] Toiletries
-21. [ ] Sunscreen, sunglasses, hat
+14. [ ] Emergency gear - first aid kit, knife, signaling device
+15. [ ] Bear spray
+16. [ ] Backpack rain cover
+17. [ ] Change of shoes
+18. [ ] Camera with waterproof case
+19. [ ] Toiletries
+20. [ ] Sunscreen, sunglasses, hat
 * Food
