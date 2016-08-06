@@ -1,4 +1,15 @@
+* Trip Types
+  I think I'm pretty set on doing a Unit loop. Would like to see some glaciers!
+* Terrian Types
+** River Crossings
+   There are no bridges accross rivers. Water temperature is cold (36F) so a
+   cold immersion could potentially cause hypothermia.
+   Advice:
+   1. Keep hiking boots on to protect your feet.
+   2. Use a trekking pole (or a stick) to gauge water depth.
 * Potential Units
+  Some quick summaries of some interesting-sounding units that don't require
+  expert backpacking skills.
 ** Beginner Units
 *** Unit 1 - Triple Lakes
     One of the few areas in the park with a trail. Good option for large groups.
@@ -9,8 +20,13 @@
 *** Unit 10 - West Branch Upper Toklat River
     Similar to unit 9, but on a slightly larger scale.
 *** Unit 11 - Stony Dome
+    Easy to get away from the road. Smallest backcountry unit in the park so
+    suited for an overnight trip or a hike in connection with another unit.
+*** Unit 12 - Sunrise and Sunset Glaciers
+    Surrounded by tundra benches and high peaks. Very popular unit so expect
+    to have difficult getting a permit. Don't expect as much solitude.
+*** Unit 13 - Mount Eielson
 
-*** Unit 12
-*** Unit 13
+
 * Gear
 * Food
