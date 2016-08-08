@@ -56,16 +56,20 @@
 5. [ ] polypropylene, nylon, fleece or wool clothing
 6. [ ] stove, fuel, cookware, water bottles
 7. [ ] water filter
+   - need to research
 8. [ ] Dense, high calorie-food
 9. [ ] Compass and map
 10. [ ] Toilet paper, trowel, bag
-11. [ ] Tent with rain fly and waterproof floor
-    - REI quarter dome
-12. [ ] Sleeping bag/pad
+11. [X] Tent with rain fly and waterproof floor
+    - REI quarter dome 1
+12. [X] Sleeping bag/pad
+    - Marmot Trestles 30 Sleeping Bag
 13. [ ] Insect repellent/head net
 14. [ ] Emergency gear - first aid kit, knife, signaling device
 15. [ ] Bear spray
-16. [ ] Backpack rain cover
+16. [X] Backpack rain cover
+    - Osprey Aether 70 Pack
+    - Osprey UltraLight Pack Raincover
 17. [ ] Change of shoes
 18. [ ] Camera with waterproof case
 19. [ ] Toiletries
