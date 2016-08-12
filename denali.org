@@ -51,27 +51,31 @@
 * TODO Gear
 1. [ ] waterproof hiking boots
 2. [ ] 2P wool or synthetic socks
-3. [ ] Trekking pole
+3. [X] Trekking pole
+   - black diamond z-poles
 4. [ ] Rain jacket/rain pants
 5. [ ] polypropylene, nylon, fleece or wool clothing
 6. [ ] stove, fuel, cookware, water bottles
-7. [ ] water filter
-   - need to research
-8. [ ] Dense, high calorie-food
-9. [ ] Compass and map
+7. [X] water filter
+   - chlorine dioxide tablets
+8. [X] Dense, high calorie-food
+9. [X] Compass and map
+   - Sunto A-10
 10. [ ] Toilet paper, trowel, bag
 11. [X] Tent with rain fly and waterproof floor
     - REI quarter dome 1
 12. [X] Sleeping bag/pad
     - Marmot Trestles 30 Sleeping Bag
-13. [ ] Insect repellent/head net
-14. [ ] Emergency gear - first aid kit, knife, signaling device
+13. [X] Insect repellent/head net
+    - ordered from amazon
+14. [X] Emergency gear - first aid kit, knife, signaling device
 15. [ ] Bear spray
 16. [X] Backpack rain cover
     - Osprey Aether 70 Pack
     - Osprey UltraLight Pack Raincover
 17. [ ] Change of shoes
-18. [ ] Camera with waterproof case
+18. [X] Camera with waterproof case
 19. [ ] Toiletries
 20. [ ] Sunscreen, sunglasses, hat
+21. [X] Head lamp
 * Food
