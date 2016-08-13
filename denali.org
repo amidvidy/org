@@ -64,6 +64,7 @@
 8. [X] Dense, high calorie-food
 9. [X] Compass and map
    - Sunto A-10
+     NOTE: Alaska has a 20° declination. Need to adjust for this.
 10. [ ] Toilet paper, trowel, bag
 11. [X] Tent with rain fly and waterproof floor
     - REI quarter dome 1
