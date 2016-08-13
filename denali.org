@@ -52,13 +52,13 @@
 ** Unit 31 - Polychrome Mountain
    Has some incredible looking views
 * TODO Gear
-1. [ ] waterproof hiking boots
-2. [ ] 2P wool or synthetic socks
+1. [X] waterproof hiking boots
+2. [X] 2P wool or synthetic socks
 3. [X] Trekking pole
    - black diamond z-poles
-4. [ ] Rain jacket/rain pants
-5. [ ] polypropylene, nylon, fleece or wool clothing
-6. [ ] stove, fuel, cookware, water bottles
+4. [X] Rain jacket/rain pants
+5. [X] polypropylene, nylon, fleece or wool clothing
+6. [X] stove, fuel, cookware, water bottles
 7. [X] water filter
    - chlorine dioxide tablets
 8. [X] Dense, high calorie-food
@@ -76,9 +76,9 @@
 16. [X] Backpack rain cover
     - Osprey Aether 70 Pack
     - Osprey UltraLight Pack Raincover
-17. [ ] Change of shoes
+17. [X] Change of shoes
 18. [X] Camera with waterproof case
 19. [ ] Toiletries
-20. [ ] Sunscreen, sunglasses, hat
+20. [X] Sunscreen, sunglasses, hat
 21. [X] Head lamp
 * Food
